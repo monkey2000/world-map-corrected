@@ -1,0 +1,32 @@
+{
+  "name": "world-map-corrected",
+  "version": "0.1.0",
+  "description": "A corrected world map in GeoJSON and TopoJSON format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkey2000/world-map-corrected.git"
+  },
+  "keywords": [
+    "geojson",
+    "maps",
+    "world"
+  ],
+  "author": "MonKey Lee <zbaxrl@foxmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/monkey2000/world-map-corrected/issues"
+  },
+  "homepage": "https://github.com/monkey2000/world-map-corrected#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-download": "^0.0.1",
+    "gulp-fn": "^0.0.0",
+    "gulp-rename": "^1.2.2",
+    "topojson-server": "^3.0.0"
+  },
+  "dependencies": {}
+}
